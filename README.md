@@ -1,5 +1,7 @@
 # tauri-app
 
+![release-tauri-app](https://github.com/stevieyu/tauri-demo-for-nota/workflows/release-tauri-app/badge.svg)
+
 ## Project setup
 ```
 npm install

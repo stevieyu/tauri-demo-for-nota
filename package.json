@@ -10,25 +10,25 @@
     "tauri:serve": "vue-cli-service tauri:serve"
   },
   "dependencies": {
-    "@chakra-ui/vue": "^0.6.0",
-    "core-js": "^3.6.4",
-    "emotion": "^10.0.27",
-    "tiptap": "^1.29.3",
-    "tiptap-extensions": "^1.31.1",
-    "vue": "^2.6.11"
+    "@chakra-ui/vue": "^0.6.6",
+    "core-js": "^3.7.0",
+    "emotion": "^11.0.0",
+    "tiptap": "^1.30.0",
+    "tiptap-extensions": "^1.33.2",
+    "vue": "^2.6.12"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.4.6",
-    "@vue/cli-plugin-eslint": "^4.4.6",
-    "@vue/cli-service": "^4.4.6",
+    "@vue/cli-plugin-babel": "^4.5.9",
+    "@vue/cli-plugin-eslint": "^4.5.9",
+    "@vue/cli-service": "^4.5.9",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^6.2.2",
-    "node-sass": "^4.14.1",
-    "sass-loader": "^8.0.2",
-    "vue-cli-plugin-chakra-ui": "^0.3.0",
-    "vue-cli-plugin-tauri": "^0.11.0",
-    "vue-template-compiler": "^2.6.11"
+    "eslint-plugin-vue": "^7.1.0",
+    "sass": "^1.29.0",
+    "sass-loader": "^10.1.0",
+    "vue-cli-plugin-chakra-ui": "^1.0.0",
+    "vue-cli-plugin-tauri": "^0.12.0",
+    "vue-template-compiler": "^2.6.12"
   },
   "eslintConfig": {
     "root": true,

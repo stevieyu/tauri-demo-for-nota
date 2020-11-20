@@ -10,7 +10,7 @@
         <c-flex max-h="100vh">
           <side-bar />
           <c-box
-            :class="styles(colorMode)"
+            :class="styles()"
             as="section"
             w="100%"
             height="100vh"
